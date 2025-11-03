@@ -1,4 +1,3 @@
-
 import React, { createContext, useReducer, useContext } from 'react';
 import { initialProducts } from '../data/initialProducts';
 import { productReducer } from './productReducer';

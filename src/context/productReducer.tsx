@@ -1,4 +1,3 @@
-
 import { ProductState, Product } from '../types/product';
 import { ProductAction, ActionType } from './ProductActions';
 

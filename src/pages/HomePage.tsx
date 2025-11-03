@@ -1,4 +1,3 @@
-
 import React, { useState, useMemo } from 'react';
 import { useProductContext } from '../context/ProductContext';
 import ProductList from '../components/products/ProductList';

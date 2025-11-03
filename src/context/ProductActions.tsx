@@ -1,5 +1,3 @@
-// src/context/ProductActions.tsx
-
 import { Product, ProductFormPayload } from '../types/product';
 
 export enum ActionType {
